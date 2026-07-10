@@ -1,0 +1,25 @@
+For person names dataset:
+
+https://huggingface.co/datasets/swami93/indian-names-1.5M/tree/main
+
+https://github.com/merishnaSuwal/indian_surnames_data/tree/master
+
+https://github.com/philipperemy/name-dataset/tree/master
+
+https://github.com/sigpwned/popular-names-by-country-dataset/tree/main
+
+------------------------------------------------------------------------------------------
+
+For organisation names and skill names which are not to be removed from resume text:
+
+https://www.kaggle.com/datasets/jeannicolasduval/2024-fortune-1000-companies
+
+https://github.com/luminati-io/Crunchbase-dataset-samples/tree/main
+
+https://www.kaggle.com/datasets/gautiermarti/global-companies-from-wikidata
+
+https://www.kaggle.com/datasets/kuldeep1622/company-dataset
+
+https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?
+
+https://www.kaggle.com/datasets/thenoob69/esco-skills
